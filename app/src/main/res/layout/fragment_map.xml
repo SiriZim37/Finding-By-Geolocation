@@ -10,6 +10,6 @@
         class="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        map:mapId="AIzaSyCfPr01a1JW3G8RT64hqABusmI7N5AZaZ4" />
+        map:mapId="GOOGLE_MAPS_API_KEY" />
 
 </FrameLayout>
