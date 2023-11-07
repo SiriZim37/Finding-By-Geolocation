@@ -47,6 +47,7 @@ GOOGLE_MAPS_API_KEY=<YOUR_KEY>
 https://developers.google.com/codelabs/maps-platform/maps-platform-101-android#11
 
 
+![ezcv logo]( https://github.com/SiriZim37/Finding-By-Geolocation/blob/main/des/finding_art.png)
 
 
 
