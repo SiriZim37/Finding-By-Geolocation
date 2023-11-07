@@ -1,0 +1,89 @@
+[
+    {
+        "geometry": {
+            "location": {
+                "lat": 53.617811,
+                "lng": 9.974361
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.617811,
+                    "lng": 9.974361
+                },
+                "southwest": {
+                    "lat": 53.617811,
+                    "lng": 9.974361
+                }
+            }
+        },
+        "name": "Eppendorfer Moor",
+        "rating": 4.6,
+        "vicinity": "Borsteler Chaussee, 22453 Hamburg"
+    },
+    {
+
+        "geometry": {
+            "location": {
+                "lat": 53.643284,
+                "lng": 9.991619
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.643284,
+                    "lng": 9.991619
+                },
+                "southwest": {
+                    "lat": 53.643284,
+                    "lng": 9.991619
+                }
+            }
+        },
+        "name": "Naturschutzgebiet Rothsteinsmoor",
+        "rating": 3.7,
+        "vicinity": "Jugendparkweg 60, 22415 Hamburg"
+    },
+    {
+
+        "geometry": {
+            "location": {
+                "lat": 53.536036,
+                "lng": 9.779668
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.536036,
+                    "lng": 9.779668
+                },
+                "southwest": {
+                    "lat": 53.536036,
+                    "lng": 9.779668
+                }
+            }
+        },
+        "name": "Neßsand Nature Reserve",
+        "rating": 4.6,
+        "vicinity": "Estedeich 99, 21129 Hamburg"
+    },
+    {
+
+        "geometry": {
+            "location": {
+                "lat": 53.514321,
+                "lng": 10.142353
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 53.514321,
+                    "lng": 10.142353
+                },
+                "southwest": {
+                    "lat": 53.514321,
+                    "lng": 10.142353
+                }
+            }
+        },
+        "name": "Boberger Niederung Nature Reserve",
+        "rating": 4.6,
+        "vicinity": "Boberger Furt 50, 21033 Hamburg"
+    }
+]

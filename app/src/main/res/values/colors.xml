@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryTranslucent">#556200EE</color>
+
+    <color name="colorPrimary">#b9111c</color>
+    <color name="colorPrimaryDark">#c61625</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorAccent">#61a9a5</color>-->
+    <color name="colorAccent">#b9111c</color>
+
+    <color name="fingerprint_ridge">#b9111c</color>
+
+    <color name="bottombar_tab_active">#b9111c</color>
+    <color name="bottombar_tab_inactive">#747474</color>
+    <color name="bottombar_default_background">#FEFEFE</color>
+
+    <color name="text_disable">#8e8d8d</color>
+    <color name="title_toolbar">#fefefe</color>
+    <color name="unactive">#cccccc</color>
+    <color name="green">#37b554</color>
+    <color name="black">#363636</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pincode_number">#000000</color>
+    <color name="placeholder">#EEEEEE</color>
+    <color name="cherry_red">#EB0C1F</color>
+    <color name="indicator_unactive">#cccccc</color>
+    <color name="ripper_button_color">#dddddd</color>
+    <color name="tablayout_indicator">#fdaf9c</color>
+    <color name="terracotta_3">#FA957C</color>
+    <color name="brown">#813522</color>
+    <color name="warm_grey">#959595</color>
+    <color name="blue">#307DFA</color>
+    <color name="darkblue">#4d4afb</color>
+    <color name="normalblue">#307DFA</color>
+    <color name="bg_disable">#e1e1e1</color>
+</resources>
