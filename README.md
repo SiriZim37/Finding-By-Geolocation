@@ -1,30 +1,31 @@
 # Finding-By-Geolocation
 
-# Example source code 
-The application shows how to use Google's API to display Geolocation maps and how to group Clusters on the map.
+**Finding-By-Geolocation** is an Android application that demonstrates how to use Google's Geolocation API to display maps and group clusters on the map. This app allows users to interact with the map and visualize geolocation-based data efficiently.
 
 ## Development Roadmap
 
 - [x] [Kotlin](https://kotlinlang.org/)
-- [x] [Google Map](https://developers.google.com/maps/documentation/android-sdk/start)
+- [x] [Google Maps SDK](https://developers.google.com/maps/documentation/android-sdk/start)
 - [x] [Gradle Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
 
+## Features
 
-## Features 
+- [x] **Geolocation** – Display and interact with geolocation maps.
+- [x] **Group Clusters** – Organize geolocation points into clusters for better visualization.
 
-- [x] Geolocation
-- [x] Group Cluster
+## Google Maps SDK for Android Setup
 
-# Google Maps SDK for Android Setup
+### Steps to Setup:
 
-1. Create a new project in cloud console https://console.cloud.google.com/. Once its created switch to that project.
-2. Generate Key (Credentials) for Android Project  
-3. Add the dependencies to your android project (listed below in "Dependencies" section).
-4. Add your API key to `local.properties`.
-   **Note:** To reference the API key in `local.properties` you'll need the secrets plugin installed. It's the `com.google.android.libraries.mapsplatform.secrets-gradle-plugin:secrets-gradle-plugin:2.0.1` dependency.
-```
-# local.properties
-GOOGLE_MAPS_API_KEY=<YOUR_KEY>
+1. **Create a new project** in the [Google Cloud Console](https://console.cloud.google.com/). Once the project is created, switch to that project.
+2. **Generate Credentials** (API Key) for your Android Project.
+3. **Add dependencies** to your Android project as listed in the "Dependencies" section.
+4. **Add your API Key** to the `local.properties` file:
+
+   ```properties
+   # local.properties
+   GOOGLE_MAPS_API_KEY=<YOUR_KEY>
+
 ```
 5. Update your `AndroidManifest.xml` to include the API key. Within the `application` tag.
 ```
